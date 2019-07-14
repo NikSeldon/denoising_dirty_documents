@@ -1,5 +1,7 @@
 *.m
+*.mat
 *.csv
 test
 train
 train_cleaned
+.png
